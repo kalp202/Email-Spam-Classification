@@ -1,3 +1,5 @@
 /bigdata_project/Email-classifier/node_modules
 /bigdata_project/backend/venv
-# /spam_project/model_spam_nb
+/spam_ml/raw
+/spark_ml/data
+/spark
